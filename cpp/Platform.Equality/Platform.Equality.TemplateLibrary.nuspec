@@ -19,6 +19,7 @@
   </metadata>
   <files>
     <file src="icon.png" target="images/icon.png" />
+    <file src="Platform.Equality.TemplateLibrary.targets" target="build\native\Platform.Equality.TemplateLibrary.targets" />
     <file src="Platform.Equality.h" target="lib\native\include\Platform.Equality.h" />
     <file src="Platform.Equality.Range.h" target="lib\native\include\Platform.Equality.Range.h" />
     <file src="Platform.Equality.EqualityComparerFunctionType.h" target="lib\native\include\Platform.Equality.EqualityComparerFunctionType.h" />
