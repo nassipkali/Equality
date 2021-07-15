@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Platform.Equality.TemplateLibrary</id>
+    <title>LinksPlatform's Platform.Equality Template Library</title>
+    <summary>LinksPlatform's Platform.Equality is a Template Library what contains class templates.</summary>
+    <description>LinksPlatform's Platform.Equality is a Template Library adds more comparison features for using std::unordered_map</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <version>0.0.1</version>
+    <authors>uselessgoddess</authors>
+    <owners>uselessgoddess/owners>
+    <copyright>uselessgoddess</copyright>
+    <projectUrl>https://linksplatform.github.io/Equality</projectUrl>
+    <repository type="git" url="https://github.com/linksplatform/Equality" />
+    <icon>images/icon.png</icon>
+    <tags>C++ Native Equality</tags>
+    <license type="expression">MIT</license>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+  </metadata>
+  <files>
+    <file src="icon.png" target="images/icon.png" />
+    <file src="Platform.Equality.h" target="lib\native\include\Platform.Equality.h" />
+    <file src="Platform.Equality.Range.h" target="lib\native\include\Platform.Equality.Range.h" />
+    <file src="Platform.Equality.EqualityComparerFunctionType.h" target="lib\native\include\Platform.Equality.EqualityComparerFunctionType.h" />
+    <file src="Platform.Equality.Any.h" target="lib\native\include\Platform.Equality.Any.h" />
+  </files>
+</package>
+  
