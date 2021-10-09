@@ -1,8 +1,5 @@
 #pragma once
 
-#ifndef PLATFORM_EQUALITY_ANY
-#define PLATFORM_EQUALITY_ANY
-
 #include <any>
 #include <concepts>
 #include <stdexcept>
@@ -95,4 +92,3 @@ namespace std
     }
 }
 
-#endif
