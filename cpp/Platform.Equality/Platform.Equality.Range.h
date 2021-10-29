@@ -1,8 +1,5 @@
 #pragma once
 
-#ifndef PLATFORM_EQUALITY_RANGE
-#define PLATFORM_EQUALITY_RANGE
-
 #include <algorithm>
 #include <concepts>
 #include <functional>
@@ -19,5 +16,3 @@ namespace std
         }
     };
 }
-
-#endif//PLATFORM_EQUALITY_RANGE
