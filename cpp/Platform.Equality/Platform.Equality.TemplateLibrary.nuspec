@@ -7,9 +7,9 @@
     <description>LinksPlatform's Platform.Equality is a Template Library adds more comparison features for using std::unordered_map</description>
     <releaseNotes>Initial release.</releaseNotes>
     <version>0.0.1</version>
-    <authors>konard,uselessgoddess</authors>
-    <owners>konard,uselessgoddess</owners>
-    <copyright>konard,uselessgoddess</copyright>
+    <authors>uselessgoddess</authors>
+    <owners>konard, uselessgoddess/owners>
+    <copyright>uselessgoddess</copyright>
     <projectUrl>https://linksplatform.github.io/Equality</projectUrl>
     <repository type="git" url="https://github.com/linksplatform/Equality" />
     <icon>images/icon.png</icon>
